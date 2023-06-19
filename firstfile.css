@@ -1,0 +1,21 @@
+/* header style */
+header{
+    border-style: solid;
+    border-radius: 5%;
+}
+li{
+    list-style: none;
+}
+/* main style */
+main{
+    border-style: solid;
+}
+.main-table-left{
+    width:100%;
+
+    
+}
+.main-section{
+    background-color: azure;
+}
+/* footer style */
